@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\850d181db662444eaf19c8c5cf2fa286\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\58f3b1f113e64477db884c27950f4170\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ba48eeb908beb4c69d6dc9f28df2cc65\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\3335d64e7a780715a53b4bcf63ecb83c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\afe4906ed8b06988e2094424d7241aaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\51e1e02e472cc133a07c135146b3062f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\01bf208707555b4b016e19f274154d37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4b100fee2294139c005cd7d9eca9757e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\15f3fcd1f4af855d40dd4db7fee2e203\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\5cd088f3a171d4815e3aa178ad23920b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\b6bafffac41db3fc0b38054852922089\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\219fd583b248fc1aad899ff32eac6d3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4596c0d9626ff171491c0c801f778506\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\76db5a401d9efe45f9bde0a809cd8d73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\6b2033ad9c6d2072fcaa06d34e6fee09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\731b4ccd0881d0319ac8ae1a8d460b17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\db16d3207a9c06fa90a9468655fcb471\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\95504711499740a7fc703f7b85a97e35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\997e57a6562795f9493f06c6d6aeea1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\89b12d08443be306d88122590cd6ec4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1202874ecaf5de3c996058299273c9bd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1a16eac2a7b79d3cb006753149a4ea1a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\fbd02a8681bb77736bb951fa68e97f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\36ab2e7547c7aa7bd9bf11a3e8b80103\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\20af7f6dbf2aed1ddd0750155fdbdf20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ff14ff59d39405c819921e1f05ba988a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\63f6f1e244efbbda9a2b49fa825cd32c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\c2882f09d0d467655f108ae20d7589ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4f8b67b6aa694ce44667904edb19e303\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\e0503e92725379aa71b1567f71003aad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\3ed661e9165a4489e1d9c48f54549e16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\5b9e2e38a3cfafc11e8375866755c04c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ba48eeb908beb4c69d6dc9f28df2cc65\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ba48eeb908beb4c69d6dc9f28df2cc65\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1202874ecaf5de3c996058299273c9bd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1202874ecaf5de3c996058299273c9bd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1a16eac2a7b79d3cb006753149a4ea1a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1a16eac2a7b79d3cb006753149a4ea1a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1202874ecaf5de3c996058299273c9bd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.musicplayer.PlayerActivity
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.musicplayer.MainActivity
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\850d181db662444eaf19c8c5cf2fa286\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\850d181db662444eaf19c8c5cf2fa286\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\58f3b1f113e64477db884c27950f4170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\58f3b1f113e64477db884c27950f4170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ba48eeb908beb4c69d6dc9f28df2cc65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ba48eeb908beb4c69d6dc9f28df2cc65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\3335d64e7a780715a53b4bcf63ecb83c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\3335d64e7a780715a53b4bcf63ecb83c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\afe4906ed8b06988e2094424d7241aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\afe4906ed8b06988e2094424d7241aaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\51e1e02e472cc133a07c135146b3062f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\51e1e02e472cc133a07c135146b3062f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\01bf208707555b4b016e19f274154d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\01bf208707555b4b016e19f274154d37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4b100fee2294139c005cd7d9eca9757e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4b100fee2294139c005cd7d9eca9757e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\15f3fcd1f4af855d40dd4db7fee2e203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\15f3fcd1f4af855d40dd4db7fee2e203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\5cd088f3a171d4815e3aa178ad23920b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\5cd088f3a171d4815e3aa178ad23920b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\b6bafffac41db3fc0b38054852922089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\b6bafffac41db3fc0b38054852922089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\219fd583b248fc1aad899ff32eac6d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\219fd583b248fc1aad899ff32eac6d3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4596c0d9626ff171491c0c801f778506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4596c0d9626ff171491c0c801f778506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\76db5a401d9efe45f9bde0a809cd8d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\76db5a401d9efe45f9bde0a809cd8d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\6b2033ad9c6d2072fcaa06d34e6fee09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\6b2033ad9c6d2072fcaa06d34e6fee09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\731b4ccd0881d0319ac8ae1a8d460b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\731b4ccd0881d0319ac8ae1a8d460b17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\db16d3207a9c06fa90a9468655fcb471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\db16d3207a9c06fa90a9468655fcb471\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\95504711499740a7fc703f7b85a97e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\95504711499740a7fc703f7b85a97e35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\997e57a6562795f9493f06c6d6aeea1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\997e57a6562795f9493f06c6d6aeea1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\89b12d08443be306d88122590cd6ec4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\89b12d08443be306d88122590cd6ec4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1202874ecaf5de3c996058299273c9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1202874ecaf5de3c996058299273c9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1a16eac2a7b79d3cb006753149a4ea1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\1a16eac2a7b79d3cb006753149a4ea1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\fbd02a8681bb77736bb951fa68e97f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\fbd02a8681bb77736bb951fa68e97f7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\36ab2e7547c7aa7bd9bf11a3e8b80103\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\36ab2e7547c7aa7bd9bf11a3e8b80103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\20af7f6dbf2aed1ddd0750155fdbdf20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\20af7f6dbf2aed1ddd0750155fdbdf20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ff14ff59d39405c819921e1f05ba988a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\ff14ff59d39405c819921e1f05ba988a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\63f6f1e244efbbda9a2b49fa825cd32c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\63f6f1e244efbbda9a2b49fa825cd32c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\c2882f09d0d467655f108ae20d7589ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\c2882f09d0d467655f108ae20d7589ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4f8b67b6aa694ce44667904edb19e303\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\4f8b67b6aa694ce44667904edb19e303\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\e0503e92725379aa71b1567f71003aad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\e0503e92725379aa71b1567f71003aad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\3ed661e9165a4489e1d9c48f54549e16\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\3ed661e9165a4489e1d9c48f54549e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\5b9e2e38a3cfafc11e8375866755c04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\5b9e2e38a3cfafc11e8375866755c04c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SudipB\MusicPlayer\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\SudipB\.gradle\caches\transforms-2\files-2.1\f0d0440ba37ad56f2962c42bc9148543\AndroidManifest.xml:28:13-60
