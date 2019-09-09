@@ -1,0 +1,4 @@
+#Sun Jul 21 20:58:22 IST 2019
+base.0=C\:\\Users\\SudipB\\MusicPlayer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
