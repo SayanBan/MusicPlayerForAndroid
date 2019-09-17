@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/19DUJYmVAfPoAsb06WEbiojCNkt4K3tYD?usp=sha
 
 **APK FILE :-**
 
-[Media player App file](https://drive.google.com/file/d/1yZAXk3Rr-ev7wJWwwqii9xOqJOQxmRTw/view?usp=drivesdk) 
+[Media player Apk file](https://drive.google.com/file/d/1yZAXk3Rr-ev7wJWwwqii9xOqJOQxmRTw/view?usp=drivesdk) 
 
 **MUSIC PLAYER FOR ANDROID**
 
